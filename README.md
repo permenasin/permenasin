@@ -19,7 +19,7 @@
 
 [just-javascript](https://github.com/permendodol/just-javascript.git) A project where I only focus on javascript.
 <br>
-[my-portofolio](https://permendodol.github.io/portofolio/) Its my portofolio, but still under development and it's not completely finished yet.
+[my-portofolio](https://permenkojek.github.io/portofolio/) Its my portofolio, but still under development and it's not completely finished yet.
 <br>
 <p><b>More projects soon....</b></p>
 <p></p>
