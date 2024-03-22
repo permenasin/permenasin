@@ -17,7 +17,7 @@
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="30"><b> Projects</b>
 <p><i>Glad to share some of my projects</i></p>
 
-[just-javascript](https://github.com/permendodol/just-javascript.git) A project where I only focus on javascript.
+[just-javascript](https://github.com/permenkojek/just-javascript) A project where I only focus on javascript.
 <br>
 [my-portofolio](https://permenkojek.github.io/portofolio/) Its my portofolio, but still under development and it's not completely finished yet.
 <br>
