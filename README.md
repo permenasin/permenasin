@@ -11,7 +11,7 @@
 <p align="center">
   <div>
   <img align="left"src="https://github-readme-stats.vercel.app/api?username=permenkojek&count_private=true&show_icons=true&theme=material-palenight&hide_border=true&bg_color=1F222E"/>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=permenkojek&theme=material-palenight&hide_border=true&fire=C77800&ring=7C2AE8&background=1F222E" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=permenkojek&theme=material-palenight&hide_border=true&fire=C77800&ring=7C2AE8&background=1F222E"/>
 </p>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="30"><b> Projects</b>
