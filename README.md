@@ -2,7 +2,7 @@
 
 ## <img src="https://media1.giphy.com/media/B4dt6rXq6nABilHTYM/giphy.gif?cid=ecf05e47bof9nb4fs7mz8ytcejm8rrwfogu7mhv4t9muvlcf&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="35"><b> About Me </b>
 <p color=red>
-🎨📷Let me tell you about myself. Now you here with Muhammad Fiqri and I'm still in the learning stage for all these things. On this page you will find all of the code snippets.
+🎨📷Let me tell you about myself. Now you here with me and I'm still in the learning stage for all these things. On this page you will find all of the code snippets.
   
 📚Currently, I am actively engaged in expanding my knowledge and skills in web development.
 </p>
@@ -27,12 +27,3 @@
 ## <img src="https://media0.giphy.com/media/l2Sq2zPVz6FLD6Z5S/giphy.gif?cid=ecf05e47neoggb5f814v1lgiq3pzhpwzp3r428h2pqgealjg&ep=v1_gifs_search&rid=giphy.gif&ct=g" width = "30"><b> Languages</b>
  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=permenasin&layout=compact&title_color=000&text_color=000&bg_color=EEE8AA" />
   </div>  
-<!-- Social icons section -->
-
-## <img src="https://media.tenor.com/images/22f42c11b612b041b4038573dca18a2d/tenor.gif" width="30"><b>Lets' Connect</b>
-<p align="left">
-   <a href="https://instagram.com/mhmdfiqriii_"><img width="32px" alt="Instagram" title="Instagram" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Instagram-Icon.png/640px-Instagram-Icon.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://tentangaprill.blogspot.com/"><img width="32px" alt="My Blog" title="My Blog" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Blogger_icon_2017.svg/640px-Blogger_icon_2017.svg.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-</p>
